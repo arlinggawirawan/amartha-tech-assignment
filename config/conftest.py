@@ -6,6 +6,7 @@ class Config:
     BASE_URL = "https://www.saucedemo.com"
     USERNAME = "standard_user"
     PASSWORD = "secret_sauce"
+    INVALID_PASSWORD = "secret_sauce123"
     NAVIGATE_ABOUT_EXPECTED_URL = "https://saucelabs.com/"
 
     @staticmethod
